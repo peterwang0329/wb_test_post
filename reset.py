@@ -48,7 +48,7 @@ def send_reset_email(
     conn.commit()
     conn.close()
 
-    reset_link = f"127.0.0.1:8000/reset/{reset_token}"
+    reset_link = f"https://wb-test-post.onrender.com/reset/{reset_token}"
     send_email(
         recipient=email,
         subject="密碼重置",
