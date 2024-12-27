@@ -1,4 +1,4 @@
-﻿altgraph==0.17.4
+altgraph==0.17.4
 annotated-types==0.7.0
 anyio==4.6.2.post1
 certifi==2024.8.30
@@ -58,3 +58,5 @@ watchfiles==1.0.0
 websockets==14.1
 wheel==0.43.0
 yt-dlp==2024.11.4
+sqlite3-binary
+markdown
