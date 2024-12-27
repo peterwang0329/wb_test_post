@@ -58,5 +58,4 @@ watchfiles==1.0.0
 websockets==14.1
 wheel==0.43.0
 yt-dlp==2024.11.4
-sqlite3-binary
 markdown
